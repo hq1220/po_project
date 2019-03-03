@@ -48,3 +48,4 @@ class TestNetwork:
         self.network_page.click_7g()
 		
 # 1
+# 2
