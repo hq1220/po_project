@@ -34,3 +34,4 @@ class TestDisplay:
     # self.driver.find_element_by_id("com.android.settings:id/search").click()
     # self.driver.find_element_by_id("android:id/search_src_text").send_keys("hello")
     # self.driver.find_element_by_class_name("android.widget.ImageButton").click()
+	# 1
