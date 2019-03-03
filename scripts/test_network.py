@@ -41,3 +41,8 @@ class TestNetwork:
         self.network_page.click_more()
         self.network_page.click_network()
         self.network_page.click_6g()
+		
+	def test_mobile_network_7g(self):
+        self.network_page.click_more()
+        self.network_page.click_network()
+        self.network_page.click_7g()
